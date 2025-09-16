@@ -1,0 +1,21 @@
+# Thư viện cơ bản cho phân tích dữ liệu
+numpy>=1.20.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Thư viện cho machine learning
+scikit-learn>=1.0.0
+xgboost>=1.5.0
+lightgbm>=3.3.0
+
+# Thư viện cho xử lý dữ liệu
+scipy>=1.7.0
+statsmodels>=0.13.0
+
+# Thư viện cho trực quan hóa nâng cao
+plotly>=5.3.0
+
+# Jupyter notebook
+jupyter>=1.0.0
+ipykernel>=6.0.0

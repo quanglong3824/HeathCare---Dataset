@@ -1,0 +1,20 @@
+BỆNH ÁN BỆNH NHÂN - SỐNG LÀNH MẠNH
+=====================================
+
+Thông tin cá nhân:
+- Tuổi: 71
+- Giới tính: Nữ
+- Chiều cao: 162
+- Cân nặng: 59
+- Tình trạng hôn nhân: Đã kết hôn
+- Nghề nghiệp: Hưu trí
+- Nơi cư trú: Thành thị
+- Tình trạng hút thuốc: Chưa bao giờ hút
+
+Thông tin sức khỏe:
+- Tăng huyết áp: Không
+- Bệnh tim: Không
+- Glucose: 92
+
+Ghi chú: Bệnh nhân sống lành mạnh, ăn chay, tập yoga hàng ngày.
+Kết quả: Không đột quỵ

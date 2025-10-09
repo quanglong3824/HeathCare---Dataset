@@ -1,0 +1,20 @@
+BỆNH ÁN BỆNH NHÂN - DỮ LIỆU SAI
+=====================================
+
+Thông tin cá nhân:
+- Tuổi: 150
+- Giới tính: Robot
+- Chiều cao: 50
+- Cân nặng: 500
+- Tình trạng hôn nhân: Đã kết hôn
+- Nghề nghiệp: Siêu nhân
+- Nơi cư trú: Sao Hỏa
+- Tình trạng hút thuốc: Hút 100 điếu/ngày
+
+Thông tin sức khỏe:
+- Tăng huyết áp: Có
+- Bệnh tim: Có
+- Glucose: 999
+
+Ghi chú: File test với dữ liệu không hợp lệ để kiểm tra validation.
+Kết quả: Có đột quỵ

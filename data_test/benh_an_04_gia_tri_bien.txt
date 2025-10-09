@@ -1,0 +1,21 @@
+BỆNH ÁN BỆNH NHÂN - GIÁ TRỊ BIÊN
+==================================
+
+Thông tin cá nhân:
+- Tuổi: 18
+- Giới tính: Nữ
+- Chiều cao: 150
+- Cân nặng: 40
+- Tình trạng hôn nhân: Chưa kết hôn
+- Nghề nghiệp: Học sinh
+- Nơi cư trú: Thành thị
+- Tình trạng hút thuốc: Chưa bao giờ hút
+
+Thông tin sức khỏe:
+- Tăng huyết áp: Không
+- Bệnh tim: Không
+- Glucose: 70
+
+Ghi chú: Bệnh nhân trẻ tuổi nhất (18 tuổi), cân nặng thấp (BMI = 17.8 - thiếu cân). 
+Glucose ở mức thấp nhưng vẫn trong giới hạn bình thường. 
+Trường hợp test cho độ tuổi và BMI ở ngưỡng thấp.

@@ -1,0 +1,20 @@
+BỆNH ÁN BỆNH NHÂN - NGUY CƠ TRUNG BÌNH
+=====================================
+
+Thông tin cá nhân:
+- Tuổi: 35
+- Giới tính: Nữ
+- Chiều cao: 165
+- Cân nặng: 62
+- Tình trạng hôn nhân: Đã kết hôn
+- Nghề nghiệp: Bác sĩ
+- Nơi cư trú: Thành thị
+- Tình trạng hút thuốc: Chưa bao giờ hút
+
+Thông tin sức khỏe:
+- Tăng huyết áp: Không
+- Bệnh tim: Không
+- Glucose: 105
+
+Ghi chú: Bệnh nhân trẻ, khỏe mạnh nhưng có tiền sử gia đình về đột quỵ.
+Kết quả: Không đột quỵ

@@ -1,0 +1,20 @@
+BỆNH ÁN BỆNH NHÂN - NGUY CƠ TRUNG BÌNH
+=====================================
+
+Thông tin cá nhân:
+- Tuổi: 48
+- Giới tính: Nam
+- Chiều cao: 173
+- Cân nặng: 85
+- Tình trạng hôn nhân: Đã kết hôn
+- Nghề nghiệp: Giám đốc
+- Nơi cư trú: Thành thị
+- Tình trạng hút thuốc: Đang hút
+
+Thông tin sức khỏe:
+- Tăng huyết áp: Có
+- Bệnh tim: Không
+- Glucose: 135
+
+Ghi chú: Bệnh nhân làm việc căng thẳng, hút thuốc, có tăng huyết áp.
+Kết quả: Không đột quỵ

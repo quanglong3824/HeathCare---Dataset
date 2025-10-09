@@ -1,0 +1,20 @@
+BỆNH ÁN BỆNH NHÂN - NGUY CƠ TRUNG BÌNH
+=====================================
+
+Thông tin cá nhân:
+- Tuổi: 65
+- Giới tính: Nữ
+- Chiều cao: 158
+- Cân nặng: 68
+- Tình trạng hôn nhân: Đã kết hôn
+- Nghề nghiệp: Hưu trí
+- Nơi cư trú: Nông thôn
+- Tình trạng hút thuốc: Chưa bao giờ hút
+
+Thông tin sức khỏe:
+- Tăng huyết áp: Có
+- Bệnh tim: Không
+- Glucose: 110
+
+Ghi chú: Bệnh nhân cao tuổi nhưng vẫn duy trì lối sống lành mạnh, tập thể dục nhẹ.
+Kết quả: Không đột quỵ

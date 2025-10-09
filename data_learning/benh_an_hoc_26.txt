@@ -1,0 +1,20 @@
+BỆNH ÁN BỆNH NHÂN - SIÊU BÉO PHÌ
+=====================================
+
+Thông tin cá nhân:
+- Tuổi: 35
+- Giới tính: Nam
+- Chiều cao: 165
+- Cân nặng: 120
+- Tình trạng hôn nhân: Đã kết hôn
+- Nghề nghiệp: Lái xe tải
+- Nơi cư trú: Nông thôn
+- Tình trạng hút thuốc: Đang hút
+
+Thông tin sức khỏe:
+- Tăng huyết áp: Có
+- Bệnh tim: Không
+- Glucose: 190
+
+Ghi chú: Bệnh nhân siêu béo phì, ít vận động, ăn uống không kiểm soát.
+Kết quả: Có đột quỵ

@@ -1,0 +1,21 @@
+BỆNH ÁN BỆNH NHÂN - TIỀN SỬ GIA ĐÌNH
+====================================
+
+Thông tin cá nhân:
+- Tuổi: 38
+- Giới tính: Nữ
+- Chiều cao: 162
+- Cân nặng: 65
+- Tình trạng hôn nhân: Đã kết hôn
+- Nghề nghiệp: Bác sĩ
+- Nơi cư trú: Thành thị
+- Tình trạng hút thuốc: Chưa bao giờ hút
+
+Thông tin sức khỏe:
+- Tăng huyết áp: Không
+- Bệnh tim: Không
+- Glucose: 88
+
+Ghi chú: Bệnh nhân có tiền sử gia đình: bố bị đột quỵ ở tuổi 65, mẹ có tiểu đường type 2. 
+BMI = 24.8 (bình thường). Glucose bình thường nhưng có yếu tố di truyền. 
+Là bác sĩ nên có kiến thức về sức khỏe và theo dõi định kỳ.

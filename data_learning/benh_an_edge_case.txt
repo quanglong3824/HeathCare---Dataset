@@ -1,0 +1,20 @@
+BỆNH ÁN BỆNH NHÂN - EDGE CASE
+=====================================
+
+Thông tin cá nhân:
+- Tuổi: 25
+- Giới tính: Nữ
+- Chiều cao: 160
+- Cân nặng: 45
+- Tình trạng hôn nhân: Chưa kết hôn
+- Nghề nghiệp: Sinh viên
+- Nơi cư trú: Thành thị
+- Tình trạng hút thuốc: Chưa bao giờ hút
+
+Thông tin sức khỏe:
+- Tăng huyết áp: Có
+- Bệnh tim: Có
+- Glucose: 250
+
+Ghi chú: Trường hợp đặc biệt - người trẻ nhưng có nhiều bệnh lý nghiêm trọng.
+Kết quả: Không đột quỵ

@@ -1,0 +1,20 @@
+BỆNH ÁN BỆNH NHÂN - NGUY CƠ THẤP
+=====================================
+
+Thông tin cá nhân:
+- Tuổi: 28
+- Giới tính: Nam
+- Chiều cao: 180
+- Cân nặng: 75
+- Tình trạng hôn nhân: Độc thân
+- Nghề nghiệp: Lập trình viên
+- Nơi cư trú: Thành thị
+- Tình trạng hút thuốc: Chưa bao giờ hút
+
+Thông tin sức khỏe:
+- Tăng huyết áp: Không
+- Bệnh tim: Không
+- Glucose: 88
+
+Ghi chú: Bệnh nhân trẻ tuổi, thường xuyên tập gym, chế độ ăn uống lành mạnh.
+Kết quả: Không đột quỵ

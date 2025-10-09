@@ -1,0 +1,20 @@
+BỆNH ÁN BỆNH NHÂN - NGUY CƠ TRUNG BÌNH
+=====================================
+
+Thông tin cá nhân:
+- Tuổi: 55
+- Giới tính: Nam
+- Chiều cao: 170
+- Cân nặng: 78
+- Tình trạng hôn nhân: Đã kết hôn
+- Nghề nghiệp: Giáo viên
+- Nơi cư trú: Thành thị
+- Tình trạng hút thuốc: Đang hút
+
+Thông tin sức khỏe:
+- Tăng huyết áp: Có
+- Bệnh tim: Không
+- Glucose: 125
+
+Ghi chú: Bệnh nhân trung niên, có một số yếu tố nguy cơ.
+Kết quả: Không đột quỵ

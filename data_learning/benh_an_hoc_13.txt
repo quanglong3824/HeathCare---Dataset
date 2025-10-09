@@ -1,0 +1,20 @@
+BỆNH ÁN BỆNH NHÂN - NGUY CƠ TRUNG BÌNH
+=====================================
+
+Thông tin cá nhân:
+- Tuổi: 26
+- Giới tính: Nam
+- Chiều cao: 170
+- Cân nặng: 105
+- Tình trạng hôn nhân: Chưa kết hôn
+- Nghề nghiệp: Lập trình viên
+- Nơi cư trú: Thành thị
+- Tình trạng hút thuốc: Chưa bao giờ hút
+
+Thông tin sức khỏe:
+- Tăng huyết áp: Không
+- Bệnh tim: Không
+- Glucose: 128
+
+Ghi chú: Bệnh nhân trẻ tuổi nhưng béo phì do ít vận động, làm việc văn phòng.
+Kết quả: Không đột quỵ

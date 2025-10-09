@@ -1,0 +1,20 @@
+BỆNH ÁN BỆNH NHÂN - VẬN ĐỘNG VIÊN NỮ
+=====================================
+
+Thông tin cá nhân:
+- Tuổi: 23
+- Giới tính: Nữ
+- Chiều cao: 172
+- Cân nặng: 58
+- Tình trạng hôn nhân: Chưa kết hôn
+- Nghề nghiệp: Vận động viên
+- Nơi cư trú: Thành thị
+- Tình trạng hút thuốc: Chưa bao giờ hút
+
+Thông tin sức khỏe:
+- Tăng huyết áp: Không
+- Bệnh tim: Không
+- Glucose: 75
+
+Ghi chú: Vận động viên chạy marathon, thể trạng rất tốt.
+Kết quả: Không đột quỵ

@@ -1,0 +1,20 @@
+BỆNH ÁN BỆNH NHÂN - NGUY CƠ CAO
+=====================================
+
+Thông tin cá nhân:
+- Tuổi: 58
+- Giới tính: Nam
+- Chiều cao: 170
+- Cân nặng: 95
+- Tình trạng hôn nhân: Đã kết hôn
+- Nghề nghiệp: Quản lý
+- Nơi cư trú: Thành thị
+- Tình trạng hút thuốc: Đã từng hút
+
+Thông tin sức khỏe:
+- Tăng huyết áp: Có
+- Bệnh tim: Có
+- Glucose: 145
+
+Ghi chú: Bệnh nhân có nhiều yếu tố nguy cơ, thừa cân, stress công việc cao.
+Kết quả: Không đột quỵ

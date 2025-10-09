@@ -1,0 +1,22 @@
+BỆNH ÁN BỆNH NHÂN - TẠNG NGƯỜI CHÂU Á
+======================================
+
+Thông tin cá nhân:
+- Tuổi: 45
+- Giới tính: Nam
+- Chiều cao: 168
+- Cân nặng: 70
+- Tạng người: Châu Á
+- Tình trạng hôn nhân: Đã kết hôn
+- Nghề nghiệp: Kỹ sư
+- Nơi cư trú: Thành thị
+- Tình trạng hút thuốc: Chưa bao giờ hút
+
+Thông tin sức khỏe:
+- Tăng huyết áp: Không
+- Bệnh tim: Không
+- Glucose: 95
+
+Ghi chú: Bệnh nhân tạng người Châu Á, BMI = 24.8 (thừa cân theo tiêu chuẩn Châu Á). 
+Glucose ở mức bình thường cao. Không có yếu tố nguy cơ lớn nhưng cần theo dõi do BMI cao 
+theo tiêu chuẩn Châu Á (>23 là thừa cân).

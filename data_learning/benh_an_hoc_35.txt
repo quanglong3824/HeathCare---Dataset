@@ -1,0 +1,20 @@
+BỆNH ÁN BỆNH NHÂN - TIỀN SỬ GIA ĐÌNH
+=====================================
+
+Thông tin cá nhân:
+- Tuổi: 37
+- Giới tính: Nam
+- Chiều cao: 175
+- Cân nặng: 78
+- Tình trạng hôn nhân: Chưa kết hôn
+- Nghề nghiệp: Kỹ sư Xây Dựng
+- Nơi cư trú: Thành thị
+- Tình trạng hút thuốc: Chưa bao giờ hút
+
+Thông tin sức khỏe:
+- Tăng huyết áp: Không
+- Bệnh tim: Không
+- Glucose: 90
+
+Ghi chú: Bệnh nhân trẻ khỏe mạnh nhưng có tiền sử bệnh tim
+Kết quả: Không đột quỵ

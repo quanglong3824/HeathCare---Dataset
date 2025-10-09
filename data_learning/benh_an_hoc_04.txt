@@ -1,0 +1,20 @@
+BỆNH ÁN BỆNH NHÂN - TRẺ EM
+=====================================
+
+Thông tin cá nhân:
+- Tuổi: 12
+- Giới tính: Nam
+- Chiều cao: 145
+- Cân nặng: 35
+- Tình trạng hôn nhân: Chưa kết hôn
+- Nghề nghiệp: Học sinh
+- Nơi cư trú: Thành thị
+- Tình trạng hút thuốc: Chưa bao giờ hút
+
+Thông tin sức khỏe:
+- Tăng huyết áp: Không
+- Bệnh tim: Không
+- Glucose: 78
+
+Ghi chú: Bệnh nhân nhỏ tuổi, khỏe mạnh, tham gia hoạt động thể thao.
+Kết quả: Không đột quỵ

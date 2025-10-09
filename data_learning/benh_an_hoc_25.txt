@@ -1,0 +1,20 @@
+BỆNH ÁN BỆNH NHÂN - PHỤ NỮ MANG THAI
+=====================================
+
+Thông tin cá nhân:
+- Tuổi: 28
+- Giới tính: Nữ
+- Chiều cao: 158
+- Cân nặng: 68
+- Tình trạng hôn nhân: Đã kết hôn
+- Nghề nghiệp: Nhân viên văn phòng
+- Nơi cư trú: Thành thị
+- Tình trạng hút thuốc: Chưa bao giờ hút
+
+Thông tin sức khỏe:
+- Tăng huyết áp: Có
+- Bệnh tim: Không
+- Glucose: 145
+
+Ghi chú: Bệnh nhân đang mang thai 7 tháng, có tăng huyết áp thai kỳ.
+Kết quả: Không đột quỵ

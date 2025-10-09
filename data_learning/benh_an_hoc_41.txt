@@ -1,0 +1,20 @@
+BỆNH ÁN BỆNH NHÂN - NGUY CƠ THẤP
+=====================================
+
+Thông tin cá nhân:
+- Tuổi: 29
+- Giới tính: Nữ
+- Chiều cao: 165
+- Cân nặng: 58
+- Tình trạng hôn nhân: Độc thân
+- Nghề nghiệp: Y tá
+- Nơi cư trú: Thành thị
+- Tình trạng hút thuốc: Chưa bao giờ hút
+
+Thông tin sức khỏe:
+- Tăng huyết áp: Không
+- Bệnh tim: Không
+- Glucose: 82
+
+Ghi chú: Bệnh nhân trẻ tuổi, làm việc trong ngành y tế, có ý thức cao về sức khỏe.
+Kết quả: Không đột quỵ

@@ -1,0 +1,22 @@
+BỆNH ÁN BỆNH NHÂN - TẠNG NGƯỜI CHÂU MỸ
+=======================================
+
+Thông tin cá nhân:
+- Tuổi: 45
+- Giới tính: Nam
+- Chiều cao: 175
+- Cân nặng: 80
+- Tạng người: Châu Mỹ
+- Tình trạng hôn nhân: Đã kết hôn
+- Nghề nghiệp: Kỹ sư
+- Nơi cư trú: Thành thị
+- Tình trạng hút thuốc: Chưa bao giờ hút
+
+Thông tin sức khỏe:
+- Tăng huyết áp: Không
+- Bệnh tim: Không
+- Glucose: 95
+
+Ghi chú: Bệnh nhân tạng người Châu Mỹ, BMI = 26.1 (thừa cân theo tiêu chuẩn Châu Mỹ). 
+Glucose ở mức bình thường cao. Cùng thông số với bệnh nhân Châu Á nhưng đánh giá BMI khác nhau.
+Theo tiêu chuẩn Châu Mỹ: BMI 25-29.9 là thừa cân (ít nghiêm trọng hơn Châu Á).

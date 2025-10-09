@@ -1,0 +1,20 @@
+BỆNH ÁN BỆNH NHÂN - NGUY CƠ CAO
+=====================================
+
+Thông tin cá nhân:
+- Tuổi: 54
+- Giới tính: Nữ
+- Chiều cao: 163
+- Cân nặng: 82
+- Tình trạng hôn nhân: Đã kết hôn
+- Nghề nghiệp: Nhân viên văn phòng
+- Nơi cư trú: Thành thị
+- Tình trạng hút thuốc: Chưa bao giờ hút
+
+Thông tin sức khỏe:
+- Tăng huyết áp: Có
+- Bệnh tim: Không
+- Glucose: 185
+
+Ghi chú: Bệnh nhân trung niên, mắc tiểu đường type 2, thừa cân.
+Kết quả: Có đột quỵ

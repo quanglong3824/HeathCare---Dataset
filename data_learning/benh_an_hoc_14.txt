@@ -1,0 +1,20 @@
+BỆNH ÁN BỆNH NHÂN - NGUY CƠ RẤT CAO
+=====================================
+
+Thông tin cá nhân:
+- Tuổi: 78
+- Giới tính: Nam
+- Chiều cao: 165
+- Cân nặng: 75
+- Tình trạng hôn nhân: Đã kết hôn
+- Nghề nghiệp: Hưu trí
+- Nơi cư trú: Nông thôn
+- Tình trạng hút thuốc: Đã từng hút
+
+Thông tin sức khỏe:
+- Tăng huyết áp: Có
+- Bệnh tim: Có
+- Glucose: 245
+
+Ghi chú: Bệnh nhân cao tuổi, mắc nhiều bệnh lý mãn tính, tiểu đường nặng.
+Kết quả: Có đột quỵ

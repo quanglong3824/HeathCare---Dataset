@@ -1,0 +1,21 @@
+BỆNH ÁN BỆNH NHÂN - VẬN ĐỘNG VIÊN
+==================================
+
+Thông tin cá nhân:
+- Tuổi: 26
+- Giới tính: Nam
+- Chiều cao: 180
+- Cân nặng: 90
+- Tình trạng hôn nhân: Chưa kết hôn
+- Nghề nghiệp: Vận động viên
+- Nơi cư trú: Thành thị
+- Tình trạng hút thuốc: Chưa bao giờ hút
+
+Thông tin sức khỏe:
+- Tăng huyết áp: Không
+- Bệnh tim: Không
+- Glucose: 80
+
+Ghi chú: Bệnh nhân là vận động viên thể hình. BMI = 27.8 (thừa cân theo chỉ số) 
+nhưng thực tế là cơ bắp phát triển, không phải mỡ thừa. Glucose thấp do tập luyện 
+cường độ cao. Trường hợp đặc biệt: BMI cao nhưng nguy cơ thấp do lối sống lành mạnh.

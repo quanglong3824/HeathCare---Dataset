@@ -1,0 +1,20 @@
+BỆNH ÁN BỆNH NHÂN - NGUY CƠ CAO
+=====================================
+
+Thông tin cá nhân:
+- Tuổi: 74
+- Giới tính: Nam
+- Chiều cao: 170
+- Cân nặng: 70
+- Tình trạng hôn nhân: Đã kết hôn
+- Nghề nghiệp: Hưu trí
+- Nơi cư trú: Thành thị
+- Tình trạng hút thuốc: Đã từng hút
+
+Thông tin sức khỏe:
+- Tăng huyết áp: Có
+- Bệnh tim: Có
+- Glucose: 175
+
+Ghi chú: Bệnh nhân cao tuổi, có tiền sử nhồi máu cơ tim, tăng huyết áp.
+Kết quả: Có đột quỵ

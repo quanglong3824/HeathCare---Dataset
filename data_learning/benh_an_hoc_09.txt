@@ -1,0 +1,20 @@
+BỆNH ÁN BỆNH NHÂN - NGUY CƠ THẤP
+=====================================
+
+Thông tin cá nhân:
+- Tuổi: 24
+- Giới tính: Nam
+- Chiều cao: 180
+- Cân nặng: 75
+- Tình trạng hôn nhân: Chưa kết hôn
+- Nghề nghiệp: Vận động viên
+- Nơi cư trú: Thành thị
+- Tình trạng hút thuốc: Chưa bao giờ hút
+
+Thông tin sức khỏe:
+- Tăng huyết áp: Không
+- Bệnh tim: Không
+- Glucose: 82
+
+Ghi chú: Vận động viên chuyên nghiệp, thể trạng tốt, không có yếu tố nguy cơ.
+Kết quả: Không đột quỵ

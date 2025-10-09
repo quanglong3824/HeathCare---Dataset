@@ -1,0 +1,20 @@
+BỆNH ÁN BỆNH NHÂN - ĐỘT QUỴ CAO
+=====================================
+
+Thông tin cá nhân:
+- Tuổi: 74
+- Giới tính: Nam
+- Chiều cao: 171
+- Cân nặng: 94
+- Tình trạng hôn nhân: Đã kết hôn
+- Nghề nghiệp: Hưu trí
+- Nơi cư trú: Thành thị
+- Tình trạng hút thuốc: Đang hút
+
+Thông tin sức khỏe:
+- Tăng huyết áp: Có
+- Bệnh tim: Có
+- Glucose: 228
+
+Ghi chú: Bệnh nhân béo phì, hút thuốc, tiểu đường nặng.
+Kết quả: Có đột quỵ

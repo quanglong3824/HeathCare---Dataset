@@ -1,0 +1,20 @@
+BỆNH ÁN BỆNH NHÂN - NGUY CƠ CAO
+=====================================
+
+Thông tin cá nhân:
+- Tuổi: 68
+- Giới tính: Nữ
+- Chiều cao: 160
+- Cân nặng: 85
+- Tình trạng hôn nhân: Đã kết hôn
+- Nghề nghiệp: Hưu trí
+- Nơi cư trú: Nông thôn
+- Tình trạng hút thuốc: Đã từng hút
+
+Thông tin sức khỏe:
+- Tăng huyết áp: Có
+- Bệnh tim: Có
+- Glucose: 180
+
+Ghi chú: Bệnh nhân cao tuổi, có nhiều yếu tố nguy cơ.
+Kết quả: Có đột quỵ

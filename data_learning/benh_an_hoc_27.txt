@@ -1,0 +1,20 @@
+BỆNH ÁN BỆNH NHÂN - CAO TUỔI KHỎE MẠNH
+=====================================
+
+Thông tin cá nhân:
+- Tuổi: 85
+- Giới tính: Nữ
+- Chiều cao: 155
+- Cân nặng: 52
+- Tình trạng hôn nhân: Đã kết hôn
+- Nghề nghiệp: Hưu trí
+- Nơi cư trú: Thành thị
+- Tình trạng hút thuốc: Chưa bao giờ hút
+
+Thông tin sức khỏe:
+- Tăng huyết áp: Không
+- Bệnh tim: Không
+- Glucose: 98
+
+Ghi chú: Bệnh nhân rất cao tuổi nhưng khỏe mạnh, tập thể dục đều đặn.
+Kết quả: Không đột quỵ

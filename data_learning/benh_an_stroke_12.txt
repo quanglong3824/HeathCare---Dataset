@@ -1,0 +1,20 @@
+BỆNH ÁN BỆNH NHÂN - ĐỘT QUỴ CAO
+=====================================
+
+Thông tin cá nhân:
+- Tuổi: 81
+- Giới tính: Nữ
+- Chiều cao: 154
+- Cân nặng: 75
+- Tình trạng hôn nhân: Đã kết hôn
+- Nghề nghiệp: Hưu trí
+- Nơi cư trú: Thành thị
+- Tình trạng hút thuốc: Chưa bao giờ hút
+
+Thông tin sức khỏe:
+- Tăng huyết áp: Có
+- Bệnh tim: Có
+- Glucose: 190
+
+Ghi chú: Bệnh nhân rất cao tuổi, có rung nhĩ và tăng huyết áp.
+Kết quả: Có đột quỵ

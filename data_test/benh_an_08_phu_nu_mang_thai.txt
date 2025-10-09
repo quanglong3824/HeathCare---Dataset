@@ -1,0 +1,21 @@
+BỆNH ÁN BỆNH NHÂN - PHỤ NỮ MANG THAI
+=====================================
+
+Thông tin cá nhân:
+- Tuổi: 32
+- Giới tính: Nữ
+- Chiều cao: 160
+- Cân nặng: 68
+- Tình trạng hôn nhân: Đã kết hôn
+- Nghề nghiệp: Giáo viên
+- Nơi cư trú: Thành thị
+- Tình trạng hút thuốc: Chưa bao giờ hút
+
+Thông tin sức khỏe:
+- Tăng huyết áp: Không
+- Bệnh tim: Không
+- Glucose: 140
+
+Ghi chú: Bệnh nhân nữ mang thai 28 tuần. Glucose cao do tiểu đường thai kỳ. 
+BMI = 26.6 (tăng cân trong thai kỳ). Cần theo dõi đặc biệt do glucose cao 
+và thay đổi sinh lý trong thai kỳ có thể ảnh hưởng đến nguy cơ đột quỵ.

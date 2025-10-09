@@ -1,0 +1,20 @@
+BỆNH ÁN BỆNH NHÂN - NGUY CƠ THẤP
+=====================================
+
+Thông tin cá nhân:
+- Tuổi: 22
+- Giới tính: Nữ
+- Chiều cao: 168
+- Cân nặng: 52
+- Tình trạng hôn nhân: Chưa kết hôn
+- Nghề nghiệp: Sinh viên
+- Nơi cư trú: Thành thị
+- Tình trạng hút thuốc: Chưa bao giờ hút
+
+Thông tin sức khỏe:
+- Tăng huyết áp: Không
+- Bệnh tim: Không
+- Glucose: 85
+
+Ghi chú: Sinh viên trẻ, khỏe mạnh, tham gia hoạt động thể thao thường xuyên.
+Kết quả: Không đột quỵ

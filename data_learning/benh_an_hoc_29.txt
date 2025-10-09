@@ -1,0 +1,20 @@
+BỆNH ÁN BỆNH NHÂN - STRESS CÔNG VIỆC
+=====================================
+
+Thông tin cá nhân:
+- Tuổi: 44
+- Giới tính: Nữ
+- Chiều cao: 164
+- Cân nặng: 71
+- Tình trạng hôn nhân: Đã kết hôn
+- Nghề nghiệp: Bác sĩ
+- Nơi cư trú: Thành thị
+- Tình trạng hút thuốc: Đã từng hút
+
+Thông tin sức khỏe:
+- Tăng huyết áp: Có
+- Bệnh tim: Không
+- Glucose: 132
+
+Ghi chú: Bệnh nhân làm việc căng thẳng, thường xuyên thức khuya.
+Kết quả: Không đột quỵ

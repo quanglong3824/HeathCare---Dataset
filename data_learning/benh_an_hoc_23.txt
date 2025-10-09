@@ -1,0 +1,20 @@
+BỆNH ÁN BỆNH NHÂN - NGUY CƠ THẤP
+=====================================
+
+Thông tin cá nhân:
+- Tuổi: 20
+- Giới tính: Nam
+- Chiều cao: 175
+- Cân nặng: 55
+- Tình trạng hôn nhân: Chưa kết hôn
+- Nghề nghiệp: Sinh viên
+- Nơi cư trú: Thành thị
+- Tình trạng hút thuốc: Chưa bao giờ hút
+
+Thông tin sức khỏe:
+- Tăng huyết áp: Không
+- Bệnh tim: Không
+- Glucose: 80
+
+Ghi chú: Sinh viên trẻ, thiếu cân, không có yếu tố nguy cơ nào.
+Kết quả: Không đột quỵ

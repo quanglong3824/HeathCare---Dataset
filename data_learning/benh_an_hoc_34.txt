@@ -1,0 +1,20 @@
+BỆNH ÁN BỆNH NHÂN - TIỀN SỬ GIA ĐÌNH
+=====================================
+
+Thông tin cá nhân:
+- Tuổi: 27
+- Giới tính: Nam
+- Chiều cao: 175
+- Cân nặng: 68
+- Tình trạng hôn nhân: Chưa kết hôn
+- Nghề nghiệp: Kỹ sư IT
+- Nơi cư trú: Thành thị
+- Tình trạng hút thuốc: Chưa bao giờ hút
+
+Thông tin sức khỏe:
+- Tăng huyết áp: Không
+- Bệnh tim: Không
+- Glucose: 88
+
+Ghi chú: Bệnh nhân trẻ khỏe mạnh nhưng cha và ông đều bị đột quỵ.
+Kết quả: Không đột quỵ

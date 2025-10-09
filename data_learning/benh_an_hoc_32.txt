@@ -1,0 +1,20 @@
+BỆNH ÁN BỆNH NHÂN - HÚT THUỐC NẶNG
+=====================================
+
+Thông tin cá nhân:
+- Tuổi: 49
+- Giới tính: Nam
+- Chiều cao: 170
+- Cân nặng: 73
+- Tình trạng hôn nhân: Đã kết hôn
+- Nghề nghiệp: Thợ hàn
+- Nơi cư trú: Nông thôn
+- Tình trạng hút thuốc: Đang hút
+
+Thông tin sức khỏe:
+- Tăng huyết áp: Có
+- Bệnh tim: Không
+- Glucose: 155
+
+Ghi chú: Bệnh nhân hút thuốc 2 bao/ngày từ 20 năm nay.
+Kết quả: Có đột quỵ
